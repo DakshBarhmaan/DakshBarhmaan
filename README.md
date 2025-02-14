@@ -1,5 +1,5 @@
 <div align="center">
-    <img height="150" src="[https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=6c09b952si8d5ifypco8njtosf2sarpv98d04xjfm2mdtxz4&ep=v1_gifs_search&rid=giphy.gif&ct=g](https://media.giphy.com/media/dZRIKBQ1MoRAGqKPTF/giphy.gif?cid=790b7611mbcmquqwq7x42li7tt7rrp91g583m6wb4ri3kfsh&ep=v1_gifs_search&rid=giphy.gif&ct=g)" />
+    <img height="150" src="https://media.giphy.com/media/dZRIKBQ1MoRAGqKPTF/giphy.gif?cid=790b7611mbcmquqwq7x42li7tt7rrp91g583m6wb4ri3kfsh&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Daksh</h1>
