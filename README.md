@@ -1,3 +1,7 @@
+<div align="center">
+    <img height="150" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=6c09b952si8d5ifypco8njtosf2sarpv98d04xjfm2mdtxz4&ep=v1_gifs_search&rid=giphy.gif&ct=g" />
+</div>
+
 <h1 align="center">Hi 👋, I'm Daksh</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
